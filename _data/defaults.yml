@@ -1,4 +1,4 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-  banner: "Your image url"
+  heading: "Welcome to deeplake's dev wiki!"
+  subheading: "I made this site for my own purposes, but if you found some help in here it'll be my pleasure!"
+  banner: "../assets/images/banners/Abstract_blue_background7.jpg"
